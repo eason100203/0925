@@ -1,0 +1,3 @@
+language="nodejs"
+entrypoint="src/App.vue"
+run="npm run dev"
